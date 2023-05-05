@@ -1,0 +1,262 @@
+body {
+    margin: 0px;
+}
+
+.cv-document {
+	box-sizing: border-box;
+	border: none;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: arial, sans-serif, tahoma;
+	font-size: 10pt;
+}
+
+.cv-page {
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: #fff;
+    position: relative;
+    padding: 40px
+}
+
+/* ------------------------------ info ---------------------------- */
+
+.section-title {
+    text-transform: uppercase;
+    border-bottom: #000 solid 2px;
+}
+
+#info {
+    padding: 40px;
+}
+
+h1 {
+    color: #0e2452;
+}
+
+.info-title1 {
+    display: inline-block;
+    line-height: 0.5rem;
+    margin-right: 45px;
+}
+
+.info-title2 {
+    display: inline-block;
+    line-height: 0.5rem;
+}
+
+#info img {
+    position: relative;
+    top: -110px;
+    left: 45%;
+    width: 113px;
+    height: 113px;
+}
+
+/* ---------------------- target ----------------------- */
+
+#target {
+    padding: 40px;
+}
+
+/* ---------------------- education --------------------- */
+
+#education {
+    padding: 40px;
+}
+
+.education-tt-menu1 {
+    border-bottom: rgb(202, 202, 202) solid 1px;
+}
+
+.education-tt1 {
+    display: inline-block;
+    margin-right: 120px;
+    line-height: 0.7rem;
+}
+
+.education-tt2 {
+    display: inline-block;
+    line-height: 0.1rem;
+}
+
+.education-tt-menu2 {
+    border-bottom: rgb(202, 202, 202) solid 1px;
+}
+
+.education-tt3 {
+    display: inline-block;
+    margin-right: 120px;
+    line-height: 0.7rem;
+}
+
+.education-tt4 {
+    display: inline-block;
+    line-height: 0.1rem;
+}
+
+/* ------------------------ experience ------------------------- */
+
+#experience {
+    padding: 40px;
+}
+
+.first-ex {
+    border-bottom: rgb(202, 202, 202) solid 1px;
+}
+
+.first-ex-item1 {
+    margin-top: 30px;
+    margin-right: 60px;
+    line-height: 0.1rem;
+}
+
+.first-ex-item2 {
+    position: relative;
+    left: 15rem;
+    bottom: 2.2rem;
+    line-height: 0.9rem;
+}
+
+.first-ex-p {
+    line-height: 1.5rem;
+}
+
+.second-ex {
+    border-bottom: rgb(202, 202, 202) solid 1px;
+}
+
+.second-ex-item1 {
+    margin-top: 30px;
+    margin-right: 60px;
+    line-height: 0.1rem;
+}
+
+.second-ex-item2 {
+    position: relative;
+    left: 15rem;
+    bottom: 1.3rem;
+}
+
+/* -------------------------- activity ------------------------- */
+
+#activity {
+    padding: 40px;
+}
+
+.activity1 {
+    border-bottom: rgb(202, 202, 202) solid 1px;
+}
+
+.activity2 {
+    border-bottom: rgb(202, 202, 202) solid 1px;
+}
+
+.activity-item2 {
+    position: relative;
+    left: 15rem;
+    bottom: 1.7rem;
+    line-height: 1rem;
+}
+
+.activity-item4 {
+    position: relative;
+    left: 15rem;
+    bottom: 1.7rem;
+    line-height: 1rem;
+}
+
+/* --------------------- skill ------------------------ */
+
+#skill {
+    padding: 40px;
+}
+
+.skill1 p {
+    display: inline-block;
+    margin-right: 11rem;
+}
+
+.skill2 p {
+    display: inline-block;
+    margin-right: 11.2rem;
+}
+
+.skill3 p {
+    display: inline-block;
+    margin-right: 12.3rem;
+}
+
+.skill4 p {
+    display: inline-block;
+    margin-right: 10.7rem;
+}
+
+.skill1, .skill2, .skill3, .skill4 {
+    border-bottom: rgb(202, 202, 202) solid 1px;
+}
+
+/* ----------------------------- certificate --------------------------- */
+
+#certificate {
+    padding: 40px;
+}
+
+.certificate1, .certificate2 {
+    border-bottom: rgb(202, 202, 202) solid 1px;
+}
+
+.certificate1 p, .certificate2 p {
+    display: inline-block;
+    margin-right: 13.5rem;
+}
+
+/* ------------------------------------ hobby ------------------------------- */
+
+#hobby {
+    padding: 40px;
+}
+
+/* --------------------------- project --------------------------- */
+
+#project {
+    padding: 40px;
+}
+
+/* -------------------------------- contact ---------------------------------- */
+
+#contact {
+    padding: 40px;
+}
+
+.contact-item {
+    margin-left: -1.5rem;
+    line-height: 0.7rem;
+}
+
+.contact-item-color {
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
